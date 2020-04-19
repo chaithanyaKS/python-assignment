@@ -1,3 +1,4 @@
+# Add correct path for romeo.txt
 nums = []
 while True:
     num = input('Enter a number or done to finish: ')
