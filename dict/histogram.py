@@ -1,3 +1,5 @@
+# Add correct path for mbox.txt
+
 hist = {}
 file_name = input('Enter the filename: ')
 with open(file_name) as fp:
