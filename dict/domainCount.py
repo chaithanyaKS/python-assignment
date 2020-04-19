@@ -1,3 +1,4 @@
+# Add correct path for mbox.txt
 import re
 
 regex = r'\S+\.\S+'
