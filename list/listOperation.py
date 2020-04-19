@@ -1,3 +1,4 @@
+# Add correct path for romeo.txt
 words = []
 lst = []
 with open('Desktop/romeo.txt') as fp:
